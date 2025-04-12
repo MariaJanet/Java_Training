@@ -1,4 +1,4 @@
-package Tree;
+package BinaryTree;
 class Node{
 	int data;
 	Node left,right;
